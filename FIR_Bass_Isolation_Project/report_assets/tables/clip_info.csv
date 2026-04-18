@@ -1,0 +1,5 @@
+ClipID,Filename,OriginalFs,FinalFs,Channels,Duration_s
+clip1,clip1_bass_drum.wav,44100,48000,2,20
+clip2,clip2_bass_guitar.wav,44100,48000,2,20
+clip3,clip3_dubstep.wav,44100,48000,2,20
+clip4,clip4_funk_bass.wav,44100,48000,2,20

@@ -1,0 +1,40 @@
+Dependency Check Log -- 18-Apr-2026 14:51:20
+=========================================
+[PASS] MATLAB 25.1 ((R2025a))
+[PASS] Signal Processing Toolbox 25.1
+[PASS] fir1
+[PASS] freqz
+[PASS] grpdelay
+[PASS] pwelch
+[PASS] spectrogram
+[PASS] resample
+[PASS] filtfilt
+[PASS] rectwin
+[PASS] hann
+[PASS] hamming
+[PASS] blackman
+[PASS] audioread
+[PASS] audiowrite
+[PASS] fft
+[PASS] ifft
+[PASS] sinc
+[PASS] filter
+[PASS] conv
+[PASS] stem
+[PASS] plot
+[PASS] subplot
+[PASS] figure
+[PASS] saveas
+[PASS] trapz
+[PASS] mean
+[PASS] max
+[PASS] abs
+[PASS] round
+[PASS] length
+[PASS] size
+[PASS] find
+[PASS] zeros
+[PASS] writetable
+[PASS] table
+[PASS] 4 .wav files found in audio_original/
+[PASS] Smoke test (fir1 + freqz)
